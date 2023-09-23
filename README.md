@@ -174,7 +174,10 @@ Github extends the functionality of Markdown tables to provide more alignment an
 - But it may vary based on your keyboard layout.
   
 ![Photo of the pipe character on our keyboard](Assets/pipe-char.jpg)
- 
+
+[Secret Window Hidden Garden](secret-window/hidden-garden.md) 
+
+
 ## External References
 
 - [Basic writing and formatting syntax (GitHub Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
