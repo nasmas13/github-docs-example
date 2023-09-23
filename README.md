@@ -45,11 +45,11 @@ class Person
 end
 ```
 
-- Make note of where the backtick button is located.
+- Make note of where the backtick keyboard key is located.
 - It should appear above the tab key.
 - But it may vary based on your keyboard layout.
 
-<img width="200px" src="https://github.com/nasmas13/github-docs-example/assets/75570693/51c1eef9-b064-4d4d-ae73-d49b2a83cafa" />
+<img width="200px" src="Assets/backtick-key.jpg" />
 
 Good Cloud Engineers use codeblocks for both Code and Errors that appear in the console.
 
@@ -95,8 +95,11 @@ You can use the following markdown format to create tables:
 ```
 Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>.[2].<sup>](#external-references)
 
-![pipe-char](https://github.com/nasmas13/github-docs-example/assets/75570693/7595ece9-d8d1-42b5-afb4-782c4c83ab6a)
-
+- Make note of where the pipe keyboard key is located.
+- It should appear above the return or enter key.
+- But it may vary based on your keyboard layout.
+![Photo of the pipe character on our keyboard](Assets/pipe-char.jpg)
+ 
 ## External References
 
 - [Basic writing and formatting syntax (GitHub Flavored Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
